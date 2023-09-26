@@ -4,11 +4,14 @@ This GitHub repository provides an example of how to utilize Microsoft Excel to 
 The Excel dashboard in this repository is designed to facilitate the analysis of food sales data. It includes the following key features:
 
 **1. Region Analysis**
-Region: The dashboard allows you to select a specific region, providing insights into sales trends for that particular area.
+Region: The dashboard allows you to select a specific region, providing insights into sales trends for that particular area.\
+
 **2. Date Analysis**
 Order Date: You can filter sales data by order date, allowing you to analyze trends over time.
+
 **3. Regional Sales Trend**
 Quantity Trend: A graphical representation of the quantity of products sold over time in the selected region.
+
 **4. Top 5 Products**
 Compare Quantity: A table that compares the quantity of the top 5 selling products, helping you identify which products are performing the best.
 
