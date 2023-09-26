@@ -1,10 +1,11 @@
 This GitHub repository provides an example of how to utilize Microsoft Excel to perform an in-depth analysis of food sales data based on various product categories. The goal of this analysis is to gain insights into sales trends, regional performance, top-selling products, and their contribution to the total sales.
 
 **Dashboard Features**
+
 The Excel dashboard in this repository is designed to facilitate the analysis of food sales data. It includes the following key features:
 
 **1. Region Analysis**
-Region: The dashboard allows you to select a specific region, providing insights into sales trends for that particular area.\
+Region: The dashboard allows you to select a specific region, providing insights into sales trends for that particular area.
 
 **2. Date Analysis**
 Order Date: You can filter sales data by order date, allowing you to analyze trends over time.
@@ -24,7 +25,9 @@ Total Sales Contribution: A chart that displays the contribution of different re
 
 Total Sales of Cities: A table showing the total sales of various cities within the selected region.
 
+
 **How to Use**
+
 To use this Excel dashboard:
 
 Download the Excel file from this GitHub repository.
@@ -37,10 +40,14 @@ Use the dropdown menus and filters provided to select a specific region and orde
 
 Explore the various charts and tables to gain insights into food sales based on product categories.
 
+
 **License**
+
 This project is provided under the MIT License, which allows you to use, modify, and distribute the code for your own purposes.
 
+
 **Acknowledgments**
+
 This dashboard template was created as a sample project to demonstrate the power of Excel for sales analysis.
 
 Feel free to modify and adapt this template to suit your specific needs and datasets.
@@ -49,6 +56,7 @@ If you find this project helpful, please consider giving it a star on GitHub.
 
 
 **Contact Information**
+
 If you have any questions or suggestions, please feel free to contact us at ekpurwanto.radio@gmail.com
 
 **Happy analyzing!**
